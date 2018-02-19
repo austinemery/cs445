@@ -1,0 +1,13 @@
+A	none	target
+B	A	bridge
+C	B	bridge
+D	C	bridge
+E	D	user
+F	B	bridge
+G	F	bridge
+H	G	bridge
+I	H	attacker
+J	G	bridge
+K	J	user
+L	C	bridge
+M	L	attacker
