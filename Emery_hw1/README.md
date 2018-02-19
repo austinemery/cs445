@@ -3,6 +3,10 @@ Class: 	CS 445
 Date:	2/11/2018	
 Title: Homework 1
 
+Description:
+
+	Using Node Sampling and Edge Sampling traceback algorithms on a simulated network.
+
 To compile and run:
 
 	$ g++ hm1.cpp -o test
